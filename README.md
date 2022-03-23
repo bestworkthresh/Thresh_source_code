@@ -1,7 +1,7 @@
 # Sourse_code
 #########################################################################  
 
-### 說明:以上這兩個檔案是一組的，必須要在同一個目錄底下存在，點選Start_IF_Create_folder.cmd會去呼叫IF_Create_folder.cmd並且會在同目錄下新增一個名為01A_IF_Create_folder_Error.txt的log檔  
+### 說明:這兩個檔案是一組的，必須要在同一個目錄底下存在，點選Start_IF_Create_folder.cmd會去呼叫IF_Create_folder.cmd並且會在同目錄下新增一個名為01A_IF_Create_folder_Error.txt的log檔  
 檔案清單:
 1. IF_Create_folder.cmd
 2. Start_IF_Create_folder.cmd
